@@ -1,0 +1,9 @@
+Covidence #: #31
+Title: Capacity evaluation of composites with new materials based on design equations for concrete and masonry walls
+Authors: Aminpour, N.; Memari, A.
+Year: 2024
+Journal: Mech. Based Des. Struct. Mach.
+DOI: 10.1080/15397734.2024.2335204
+
+Abstract:
+[REDACTED: third-party abstract]

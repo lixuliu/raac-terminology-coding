@@ -1,0 +1,9 @@
+Covidence #: #271
+Title: Finite element analysis of vertical stress's effect on seismic performance of autoclaved aerated concrete block masonry walls
+Authors: Wu, H.; Zhao, J.; Gu, J.
+Year: 2012
+Journal: Adv. Mater. Res.
+DOI: 10.4028/www.scientific.net/AMR.368-373.1010
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #20
+Title: Investigating the behavior of lightweight foamed concrete T-beams under torsion, shear, and flexure
+Authors: Deifalla, A.; Awad, A.; Seleem, H.; Abdelrahman, A.
+Year: 2020
+Journal: Eng. Struct.
+DOI: 10.1016/j.engstruct.2020.110741
+
+Abstract:
+[REDACTED: third-party abstract]

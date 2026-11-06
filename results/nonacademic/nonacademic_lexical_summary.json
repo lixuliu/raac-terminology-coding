@@ -1,0 +1,53 @@
+{
+  "as_collected_n42": {
+    "n_documents": 42,
+    "RAAC_acronym": 42,
+    "RAAC_full_phrase": 36,
+    "reinforced_AAC": 2,
+    "AAC_acronym": 9,
+    "AAC_full_phrase": 37,
+    "ALC_acronym": 0,
+    "ALC_full_phrase": 0,
+    "any_RAAC": 42,
+    "no_label_matched": 0,
+    "by_category": {
+      "government": {
+        "n": 15,
+        "RAAC_acronym": 15,
+        "RAAC_full_phrase": 13,
+        "reinforced_AAC": 1,
+        "AAC_acronym": 1,
+        "AAC_full_phrase": 13,
+        "ALC_acronym": 0,
+        "ALC_full_phrase": 0,
+        "any_RAAC": 15,
+        "no_label_matched": 0
+      },
+      "media and news": {
+        "n": 9,
+        "RAAC_acronym": 9,
+        "RAAC_full_phrase": 8,
+        "reinforced_AAC": 0,
+        "AAC_acronym": 1,
+        "AAC_full_phrase": 9,
+        "ALC_acronym": 0,
+        "ALC_full_phrase": 0,
+        "any_RAAC": 9,
+        "no_label_matched": 0
+      },
+      "professional": {
+        "n": 18,
+        "RAAC_acronym": 18,
+        "RAAC_full_phrase": 15,
+        "reinforced_AAC": 1,
+        "AAC_acronym": 7,
+        "AAC_full_phrase": 15,
+        "ALC_acronym": 0,
+        "ALC_full_phrase": 0,
+        "any_RAAC": 18,
+        "no_label_matched": 0
+      }
+    }
+  },
+  "note": "All 42 input files are coded and included in aggregation. No deduplication is applied."
+}

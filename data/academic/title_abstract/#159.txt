@@ -1,0 +1,9 @@
+Covidence #: #159
+Title: Investigating the use of autoclaved aerated concrete as an infill in reinforced concrete sandwich panels
+Authors: ElKashef, M.; AbdelMooty, M.
+Year: 2015
+Journal: Mater Struct
+DOI: 10.1617/s11527-014-0298-3
+
+Abstract:
+[REDACTED: third-party abstract]

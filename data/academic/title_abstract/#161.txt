@@ -1,0 +1,9 @@
+Covidence #: #161
+Title: The stiffness behaviour of infilled frames on the influence of different infill and interface materials under static loading
+Authors: Muthukumar, S.; Thirumurugan, V.; Satyanarayanan, K.S.
+Year: 2016
+Journal: Disaster Adv.
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

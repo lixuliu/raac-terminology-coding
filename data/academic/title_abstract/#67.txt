@@ -1,0 +1,9 @@
+Covidence #: #67
+Title: A review of performance evaluation of RC-infilled frames under earthquake scenarios
+Authors: Yacin, I.M.; Muthu Kumar, S.; Satyanarayanan, K.S.
+Year: 2024
+Journal: Multiscale  Multidiscip.  Model., Exp. Des.
+DOI: 10.1007/s41939-023-00288-0
+
+Abstract:
+[REDACTED: third-party abstract]

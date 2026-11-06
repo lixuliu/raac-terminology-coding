@@ -1,0 +1,9 @@
+Covidence #: #156
+Title: Lateral load behavior of an open-ground-story RC building with AAC infills in upper stories
+Authors: Bose, S.; Rai, D.C.
+Year: 2016
+Journal: Earthquake Spectra
+DOI: 10.1193/121413EQS295M
+
+Abstract:
+[REDACTED: third-party abstract]

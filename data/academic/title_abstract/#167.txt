@@ -1,0 +1,9 @@
+Covidence #: #167
+Title: A macro-element model for masonry-infilled structural frames
+Authors: Dinh, Q.K.L.; Bui, T.C.; Nguyen, Y.V.
+Year: 2016
+Journal: Proc. Inst. Civ. Eng. Struct. Build.
+DOI: 10.1680/jstbu.15.00040
+
+Abstract:
+[REDACTED: third-party abstract]

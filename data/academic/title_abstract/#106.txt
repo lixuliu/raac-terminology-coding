@@ -1,0 +1,9 @@
+Covidence #: #106
+Title: Local effects on RC frames induced by AAC masonry infills through FEM simulation of in-plane tests
+Authors: Milanesi, R.R.; Morandi, P.; Magenes, G.
+Year: 2018
+Journal: Bull. Earthquake Engin.
+DOI: 10.1007/s10518-018-0353-5
+
+Abstract:
+[REDACTED: third-party abstract]

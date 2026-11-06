@@ -1,0 +1,9 @@
+Covidence #: #246
+Title: Examination of the relation between tensile/flexural strength and compressive strength of autoclaved aerated concrete according to prEN 12602
+Authors: Öttl, C.; Schellhorn, H.
+Year: 2007
+Journal: Adv. Constr. Materials
+DOI: 10.1007/978-3-540-72448-3_76
+
+Abstract:
+[REDACTED: third-party abstract]

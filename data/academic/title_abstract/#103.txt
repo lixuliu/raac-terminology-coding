@@ -1,0 +1,9 @@
+Covidence #: #103
+Title: Shear behaviour of ligthweight sandwich reinforced concrete slabs
+Authors: Wahyuni, A.; Vimonsatit, V.; Nikraz, H.
+Year: 2012
+Journal: Adv. Struct. Eng.
+DOI: 10.1260/1369-4332.15.10.1705
+
+Abstract:
+[REDACTED: third-party abstract]

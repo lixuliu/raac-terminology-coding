@@ -1,0 +1,9 @@
+Covidence #: #109
+Title: Experimental evaluation of lightweight AAC masonry wall prisms with ferrocement layers in compression and flexure
+Authors: Abdel-Mooty, M.; Hendam, A.; Fahmy, E.; Abou Zeid, M.; Haroun, M.
+Year: 2012
+Journal: Appl. Mech. Mater.
+DOI: 10.4028/www.scientific.net/AMM.166-169.1730
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #267
+Title: Shear Resistance of Reinforced Slabs and Beams of Autoclaved Aerated Concrete. Test Results.
+Authors: Briesemann, Dietmar
+Year: 1980
+Journal: Dtsch Ausschuss Stahlbeton
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

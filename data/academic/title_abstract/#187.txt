@@ -1,0 +1,9 @@
+Covidence #: #187
+Title: Experimental Investigation and Numerical Analyses of Autoclaved Aerated Concrete Under Low-Velocity Drop Weight Impact
+Authors: Guo, Q.; Zhou, Y.; Zhang, W.
+Year: 2020
+Journal: Int. J. Civ. Eng.
+DOI: 10.1007/s40999-019-00467-6
+
+Abstract:
+[REDACTED: third-party abstract]

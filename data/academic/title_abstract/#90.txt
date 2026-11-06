@@ -1,0 +1,9 @@
+Covidence #: #90
+Title: Post-yield Damping Ratio Estimation Studies for Masonry-Infilled Reinforced Concrete Frames
+Authors: Bhoraniya, T.H.; Purohit, S.P.
+Year: 2020
+Journal: Iran. J. Sci. Tech. Trans. Civ. Eng.
+DOI: 10.1007/s40996-019-00342-3
+
+Abstract:
+[REDACTED: third-party abstract]

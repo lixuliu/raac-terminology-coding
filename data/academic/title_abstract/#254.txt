@@ -1,0 +1,9 @@
+Covidence #: #254
+Title: Rapid prototyping of full scale house structures
+Authors: Lee, S.; Bamberg, E.; Eason, C.
+Year: 2011
+Journal: ASME Int. Manuf. Sci. Eng. Conf., MSEC
+DOI: 10.1115/MSEC2011-50179
+
+Abstract:
+[REDACTED: third-party abstract]

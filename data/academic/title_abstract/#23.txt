@@ -1,0 +1,9 @@
+Covidence #: #23
+Title: Study on flexural behavior of BFRCM-autoclaved aerated concrete composite slabs: Effects of slab and strengthening thickness
+Authors: Li, T.; Deng, M.; Zhang, Y.; Zhang, W.; Guo, L.; Hu, X.; Li, P.
+Year: 2023
+Journal: J. Build. Eng.
+DOI: 10.1016/j.jobe.2023.107382
+
+Abstract:
+[REDACTED: third-party abstract]

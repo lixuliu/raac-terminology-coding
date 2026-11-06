@@ -1,0 +1,9 @@
+Covidence #: #201
+Title: Structural testing for validating reinforced AAC design provisions in the U.S.
+Authors: Fouad, F.H.; Dembowski, J.
+Year: 2005
+Journal: Am. Concr. Inst. ACI Spec. Publ.
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

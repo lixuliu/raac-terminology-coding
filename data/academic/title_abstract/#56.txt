@@ -1,0 +1,9 @@
+Covidence #: #56
+Title: Flexural performance of sisal fiber reinforced foamed concrete under static and fatigue loading
+Authors: Huang, J.; Tian, G.; Huang, P.; Chen, Z.
+Year: 2020
+Journal: Mater.
+DOI: 10.3390/ma13143098
+
+Abstract:
+[REDACTED: third-party abstract]

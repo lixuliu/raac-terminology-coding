@@ -1,0 +1,9 @@
+Covidence #: #181
+Title: Behaviour of infilled reinforced-concrete frames with various interface conditions
+Authors: Le Dinh, Q.K.; Bui, T.C.; Nguyen, Y.V.
+Year: 2015
+Journal: Proc. Inst. Civ. Eng. Struct. Build.
+DOI: 10.1680/jstbu.14.00115
+
+Abstract:
+[REDACTED: third-party abstract]

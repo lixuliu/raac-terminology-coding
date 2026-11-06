@@ -1,0 +1,9 @@
+Covidence #: #273
+Title: Design and seismic testing of two-story, full-scale autoclaved aerated concrete assemblage specimen
+Authors: Tanner, J.E.; Varela, J.L.; Klingner, R.E.
+Year: 2005
+Journal: ACI Struct J
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

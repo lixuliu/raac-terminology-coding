@@ -1,0 +1,9 @@
+Covidence #: #448
+Title: Finite element analyses on hysteretic behavior of steel frames infilled with AAC masonry wall with circular-arc opening<SUP>s</SUP>
+Authors: Yu, YS; Li, C; Cui, YM; Guo, YN
+Year: 2023
+Journal: JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+DOI: 10.1080/13467581.2023.2165402
+
+Abstract:
+[REDACTED: third-party abstract]

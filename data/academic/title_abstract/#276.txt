@@ -1,0 +1,9 @@
+Covidence #: #276
+Title: Evaluation of ASTM methods to determine splitting tensile strength in concrete, masonry, and autoclaved aerated concrete
+Authors: Parker, CK; Tanner, JE; Varela, JL
+Year: 2008
+Journal: MASONRY
+DOI: 10.1520/STP45706S
+
+Abstract:
+[REDACTED: third-party abstract]

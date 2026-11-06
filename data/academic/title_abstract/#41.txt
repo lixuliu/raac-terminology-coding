@@ -1,0 +1,9 @@
+Covidence #: #41
+Title: Dynamic Mechanical Properties of Basalt Fibre Reinforced Foam Concrete at High Strain Rates
+Authors: Wang, J.; Wang, W.; Liu, C.; Zhao, J.
+Year: 2021
+Journal: IOP Conf. Ser. Earth Environ. Sci.
+DOI: 10.1088/1755-1315/769/3/032060
+
+Abstract:
+[REDACTED: third-party abstract]

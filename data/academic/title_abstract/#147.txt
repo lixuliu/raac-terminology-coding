@@ -1,0 +1,9 @@
+Covidence #: #147
+Title: Experimental Investigation of Autoclaved Aerated Concrete Masonry
+Authors: Bhosale, A.; Zade, N.P.; Davis, R.; Sarkar, P.
+Year: 2019
+Journal: J. Mater. Civ. Eng.
+DOI: 10.1061/(ASCE)MT.1943-5533.0002762
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #436
+Title: Seismic Design Factors for Steel Moment Frames with Masonry Infills: Part 1
+Authors: Ravichandran, SS; Klingner, RE
+Year: 2012
+Journal: EARTHQUAKE SPECTRA
+DOI: 10.1193/1.4000060
+
+Abstract:
+[REDACTED: third-party abstract]

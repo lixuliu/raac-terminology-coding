@@ -1,0 +1,9 @@
+Covidence #: #144
+Title: Characterising thermal behaviour of buildings and its effect on urban heat island in tropical areas
+Authors: Wonorahardjo, S.; Sutjahja, I.M.; Mardiyati, Y.; Andoni, H.; Thomas, D.; Achsani, R.A.; Steven, S.
+Year: 2020
+Journal: Int. J. Energy Environ. Eng.
+DOI: 10.1007/s40095-019-00317-0
+
+Abstract:
+[REDACTED: third-party abstract]

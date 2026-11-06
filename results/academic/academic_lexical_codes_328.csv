@@ -1,0 +1,329 @@
+﻿record_id,title,abstract_available,fulltext_coded,pdf_correspondence_status,title_RAAC_acronym,title_RAAC_full_phrase,title_reinforced_AAC,title_AAC_acronym,title_AAC_full_phrase,title_ALC_acronym,title_ALC_full_phrase,abstract_RAAC_acronym,abstract_RAAC_full_phrase,abstract_reinforced_AAC,abstract_AAC_acronym,abstract_AAC_full_phrase,abstract_ALC_acronym,abstract_ALC_full_phrase,fulltext_RAAC_acronym,fulltext_RAAC_full_phrase,fulltext_reinforced_AAC,fulltext_AAC_acronym,fulltext_AAC_full_phrase,fulltext_ALC_acronym,fulltext_ALC_full_phrase,metadata_RAAC_any
+#1,Life cycle energy of AAC masonry infilled residential building in India,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#2,Parametric Modeling of Flexural Response of Sandwich Composites,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#3,Strengthening of autoclaved aerated concrete (AAC) masonry wallettes with fabric reinforced cementitious matrix for in-plane shear and out-of-plane loads,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#4,Structure behavior of a fabricated shotcrete sandwich wall system under axial compression,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#5,Simplified Model Study of Autoclaved Aerated Concrete Masonry Flexible Connection Infilled Frames with Basalt Fiber Grating Strips,True,True,PDF matched,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#6,Impact of sustainable design in the construction sector on climate change,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#7,Mechanical and durability properties of hybrid fiber reinforced foam concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#8,Numerical verification of interaction between masonry with precast reinforced lintel made of AAC and reinforced concrete confining elements,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#9,Experimental Analysis of Out-of-plane Behavior of Masonry Infill Walls Strengthened with Textile Reinforced Mortar and Wall Post in Autoclaved Aerated Concrete Frames,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#10,Bond strength of autoclaved aerated concrete manufactured using partial replacement of flyash with fibers – A review,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,1,0
+#11,Comparison of different post-demolition autoclaved aerated concrete (AAC) recycling options,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#12,Strain-stress distribution of structural components from foam concrete for monolithic construction,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#13,Preparation and performance of autoclaved aerated concrete reinforced by dopamine-modified polyethylene terephthalate waste fibers,True,True,PDF matched,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#14,Analysis of lightweight composite sections with reinforced concrete infill with autoclaved aerated concrete (AAC),True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#15,Analysis of confined AAC walls under monotonic compression,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#16,Fibre-reinforced foamed concretes: A review,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#17,"Alternative stabilised rammed earth materials incorporating recycled waste and industrial by-products: A study of mechanical properties, flexure and bond strength",True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0
+#18,Mechanical and physical properties of autoclaved aerated concrete reinforced using carbon fibre of different lengths,True,True,PDF matched,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#19,Experimental and analytical study on structural performance of reinforced lightweight geopolymer composites panels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0
+#20,"Investigating the behavior of lightweight foamed concrete T-beams under torsion, shear, and flexure",True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#21,Blast responses of BFRP-bar reinforced AAC panels,True,True,PDF matched,0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,1,1,1,1,0,0,1
+#22,Mechanical properties and interface improvement of bamboo cellulose nanofibers reinforced autoclaved aerated concrete,True,True,PDF matched,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,1
+#23,Study on flexural behavior of BFRCM-autoclaved aerated concrete composite slabs: Effects of slab and strengthening thickness,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0
+#24,"International Scientific Conference ""Investments. Construction. Real Estate: New Technologies and Targeted Development Priorities--2020""",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#25,"5th International Conference on Civil Engineering and Architecture, ICCEA 2022",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#26,Life cycle assessment of post-demolition autoclaved aerated concrete (AAC) recycling options,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#27,Assessing the embodied carbon and energy required for manufacturing sustainable concrete blocks using plastic pollution as a fiber,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#28,Flexural behavior of sandwich panels combining curauá fiber-reinforced composite layers and autoclaved aerated concrete core,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0
+#29,Reinforced Autoclaved Aerated Concrete in the UK,False,False,no PDF matched; no abstract available,0,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+#30,"Cracks in the Facade: Unmasking the Hidden Threats of Reinforced Autoclaved Aerated Concrete (RAAC)—A Tale of Failure, Consequences, and Redemption",False,True,PDF matched,1,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,1,0,0,1
+#31,Capacity evaluation of composites with new materials based on design equations for concrete and masonry walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#32,Modelling and predicting the generation of post-demolition autoclaved aerated concrete (AAC) volumes in Germany until 2050,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#33,Cyclic behavior of autoclaved aerated concrete block infill walls strengthened by basalt and glass fiber composites,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#34,Lattice modeling and testing of aerated autoclaved concrete infilled frames,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#35,Structural Performance of Ferrocement Beams Incorporating Longitudinal Hole Filled with Lightweight Concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+#36,Durability performance of reinforced waste-based geopolymer foam concrete under exposure to various corrosive environments,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#37,Features of monolithic house building,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#38,Adding a masonry floor on top of a reinforced concrete high building in a seismic area,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#39,An investigation on behavior of RC frames with non-interacting infill wall,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#40,Seismic analysis of a G + 3 confined masonry building with AAC infill using SAP 2000,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#41,Dynamic Mechanical Properties of Basalt Fibre Reinforced Foam Concrete at High Strain Rates,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#42,TRM strengthening as effective prevention against premature failure of masonry walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#43,Autoclaved aerated concrete masonry wallettes strengthened using TRC overlay under out-of-plane load,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0
+#44,Flexural behavior of textile reinforced mortar-autoclaved lightweight aerated concrete composite panels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0
+#45,NUMERICAL ANALYSIS OF AERATED CONCRETE AND HOLLOW BRICK WALLS STRENGTHENED WITH STEEL-FIBERED CONCRETE PANELS,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#46,Experimental and numerical investigation of polymer-reinforced and normal autoclaved aerated concrete masonry walls under large TNT explosive loads,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#47,Natural fiber-stabilized geopolymer foams-A review,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#48,Use of steel wire mesh for compressive strength enhancement of AAC masonry wall,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#49,Shear behaviour of Autoclaved Aerated Concrete (AAC) masonry walls with and without openings strengthened with welded wire mesh,True,False,no PDF matched; abstract available,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#50,In-plane cyclic tests on strengthening of full-scale autoclaved aerated concrete blocks infilled RC frames using highly ductile concrete (HDC),True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#51,Influence of bi-directional fibreglass grid reinforcement on drying shrinkage and mechanical properties of lightweight foamed concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#52,Seismic behavior of autoclaved aerated concrete masonry walls reinforced with glass-fiber geogrid,True,True,PDF matched,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#53,Analysis of different interface treatments between masonry of AAC blocks and reinforced concrete structure after uniaxial compression strength test,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#54,Mechanical properties of natural fiber reinforced foamed concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#55,Historical defects in buildings No. 1: Reinforced autoclaved aerated concrete,False,True,PDF matched,0,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,0,0,1
+#56,Flexural performance of sisal fiber reinforced foamed concrete under static and fatigue loading,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#57,Drop Weight Testing of Samples Made of Different Building Materials Designed for the Protection of Classified Information,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#58,Increasing the Solidity of Masonry Walls Made of Cellular Concrete Blocks of Autoclave Hardening by using Polyurethane Foam Adhesive Composition as a Masonry Solution,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+#59,Experimental Study of the Work of Dowels in Three-Layer Aerated Concrete Panels with a Non-metallic Sheet Coating,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#60,A parametric study in reinforced concrete frames with different infill wall materials,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#61,Effect of rebar self-stress on behavior of autoclaved aerated simply supported R/C thin beams subject to uniform transverse dead load,True,True,PDF matched,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#62,Reinforced Autoclaved Aerated Concrete: Structural Assessment and Retrofitting,True,True,PDF matched,0,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,1,1,0,0,1
+#63,Damping Characteristics of Next-Gen Masonry Infilled RC Panels: Experimental Investigations,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#64,Improving the Physical and Mechanical Characteristics of Modified Aerated Concrete by Reinforcing with Plant Fibers,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#65,Out-of-plane seismic performance of bed-joint reinforced Autoclaved Aerated Concrete (AAC) infill walls damaged under cyclic in-plane displacement reversals,True,True,PDF matched,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,1
+#66,Preparation and load-deformation characterization of carbon nanotube-reinforced foam concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#67,A review of performance evaluation of RC-infilled frames under earthquake scenarios,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0
+#68,Numerical Prediction Method for Vibration Characteristics of Steel-Framed Autoclaved Lightweight Aerated Concrete Floor Structures,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+#69,Lightweight foamed concrete mixture for structural use,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#70,Cyclic testing and diagonal strut modelling of different types of masonry infills in reinforced concrete frames designed for modern codes,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#71,Seismic performance assessment of two-storey precast reinforced concrete building,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#72,Influential parameters on the seismic performance of confined masonry – a comprehensive review,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#73,Non-autoclave ash-filled porous concrete for bearing and enclosing structures,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#74,Shear behaviour of AAC masonry reinforced by incorporating steel wire mesh within the masonry bed and bed-head joint,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#75,Research on Mechanical Properties and Microstructures of Composite Wall Panels Made of High-Performance Fiber Reinforced Cement-based Composites,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#76,Shear Behavior of Reactive Powder Concrete Ferrocement Beams with Light Weight Core Material,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+#77,In-Plane Seismic Response of Autoclaved Aerated Concrete Block Masonry-Infilled Reinforced Concrete Frame Building,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#78,"6th International Conference on Civil Engineering for Sustainable Development, ICCESD 2022",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#79,"9th International Conference on Material Science and Engineering Technology, ICMSET 2020, 9th International Conference on Nanostructures, Nanomaterials and Nanoengineering, ICNNN 2020, and 5th International Conference on Materials Technology and Applicati",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#80,Performance of reinforced lightweight geopolymer composite panels subjected to windborne debris impacts,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0
+#81,Numerical investigation on composite enclosure walls of RC frames infilled with autoclaved aerated concrete panels under cyclic loads,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0
+#82,Assessing life cycle cost and environmental impact for office building construction in Saudi Arabia,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#83,A micro–macro modelling methodology for the analysis of infilled frames,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#84,Field testing of blast responses and strengthening methods of reinforced autoclaved aerated concrete panels,True,True,PDF matched,0,1,0,0,1,0,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,1
+#85,Experimental Study on Shear Behavior of Reinforced Autoclaved Aerated Concrete Slab,True,True,PDF matched,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1
+#86,Experimental investigation of engineered geopolymer composite for structural strengthening against blast loads,True,True,PDF matched,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#87,Study on the behavior of a high reinforced concrete building with different kinds of partitioning masonry walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#88,The use of non-destructive testing (NDT) to detect bed joint reinforcement in AAC masonry,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#89,Seismic behavior of AAC infill walls insulated with cementitious lightweight panels in reinforced concrete frames,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0
+#90,Post-yield Damping Ratio Estimation Studies for Masonry-Infilled Reinforced Concrete Frames,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#91,NUMERICAL SEISMIC PERFORMANCE INVESTIGATION OF AAC INFILL WALLS WITH FLAT-TRUSS BED-JOINT REINFORCEMENT,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0
+#92,The RC samples with infill walls strengthened with steel truss wires,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#93,Penetration Resistance of Building Materials against 7.62-mm Armor-Piercing Projectile,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#94,Behavior and design of FRP bonded autoclaved aerated concrete beams,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0
+#95,Experimental investigation of AAC masonry walls reinforced with steel wire mesh embedded in bed and bed-head joint under axial compressive loading,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#96,Shear performance of AAC masonry triplets strengthened by reinforcing steel wire mesh in the bed and bed-head joint,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#97,Behavior of Foamed Concrete Slabs Using Various Reinforcement Schemes,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#98,In-plane seismic performance of different infill wall systems in ductile reinforced concrete frames,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#99,In-plane seismic behavior of autoclaved aerated concrete block masonry walls retrofitted with high ductile fiber-reinforced concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#100,Low‐velocity impact experiments and modeling of trc skin‐ aerated concrete core sandwich composites,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#101,The 2013 MSJC code and specification: What to expect and why,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#102,Design of hybrid fiber-reinforced polymer (FRP)/autoclave aerated concrete (AAC) panels for structural applications,True,True,PDF matched,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#103,Shear behaviour of ligthweight sandwich reinforced concrete slabs,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#104,Thermal performance evaluation of two thermal energy storage tank design concepts for use with a solid particle receiver-based solar power tower,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#105,Behavior of foamed concrete reinforced with hybrid fibers and exposed to elevated temperatures,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#106,Local effects on RC frames induced by AAC masonry infills through FEM simulation of in-plane tests,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#107,Blast responses of CFRP strengthened autoclaved aerated cellular concrete panels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#108,Structural behaviour of bamboo-reinforced foamed concrete slab containing polyvinyl wastes (PW) as partial replacement of fine aggregate,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#109,Experimental evaluation of lightweight AAC masonry wall prisms with ferrocement layers in compression and flexure,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+#110,Building Defects 2019 - 11th International Conference Building Defects,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#111,Durability and bond of reinforced lightweight foamed concrete,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#112,Performance properties of structural fibred-foamed concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#113,Applying the Ferrocement Concept in Construction of Concrete Beams Incorporating Reinforced Mortar Permanent Forms,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#114,Behavior of autoclaved aerated concrete reinforced thin-panel floor sheathing elements,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,1,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#115,The effect of different fiber reinforcement on the thermal and mechanical properties of autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1
+#116,Experimental study on in-plane shear behavior of aac block masonry walls without openings,True,True,PDF matched,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0
+#117,Utilizing wood fiber produced with wood waste to reinforce autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#118,Evaluation of Exterior Wall Behavior Using Reinforced Autoclaved Aerated Concrete as Cladding,True,True,PDF matched,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,1
+#119,Influence of boundary conditions on the behavior of infilled frames,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#120,Seismic behavior and improvement of autoclaved aerated concrete infill walls,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#121,Flexural behaviour and theoretical prediction of lightweight ferrocement composite beams,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+#122,Research of Behaviour of Bed Joints Reinforced Masonry Walls with Openings Made of Autoclaved Aerated Concrete under Horizontal Shearing,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#123,Ballistic and blast performance of brick masonry walls,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#124,Shear Resistance of Reinforced Aerated Concrete Slabs: Prediction via Artificial Neural Networks,True,True,PDF matched,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,0
+#125,Autoclaved aerated concrete blocks with reinforced concrete frame and buckling restrained braced frame under cyclic loading,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#126,Portland cement based lightweight multifunctional matrix with different kind of additives containing SiO2,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+#127,FEM simulation of the experimental response of AAC masonry infills in RC frames,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#128,Ferrocement sandwich and hollow core panels for floor construction,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#129,Comparison research of kind of mortar influence and bed joints reinforcement on shear parameters of AAC masonry walls,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#130,Study of Autoclaved Aerated Concrete Masonry Walls with Horizontal Reinforcement under Compression and Shear,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+#131,"16th International Conference Silicate Binders, ICBM 2017",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#132,"2013 4th International Conference on Applied Mechanics and Mechanical Engineering, ICAMME 2013",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#133,Impact behavior of hybrid fiber-reinforced polymer (FRP)/autoclave aerated concrete (AAC) panels for structural applications,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#134,Size and shape effect of specimen on the compressive strength of HPLWFC reinforced with glass fibres,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#135,Experimental investigation on the quasi-static mechanical behavior of autoclaved aerated concrete insulated sandwich panels,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+#136,Diagonal tensile strength of AAC blocks masonry with thin joints superficially strengthened by reinforced using GFRP net plastering,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#137,"2013 International Conference on Materials for Renewable Energy and Environment, MREE 2013",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#138,Effect of AAC Infill Walls on Structural System Dynamics of a Concrete Building,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#139,Influence of the opening's position on seismic performance of autoclaved aerated concrete composite wall with core columns,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#140,Experimental and numerical study of basalt fiber reinforced polymer strip strengthened autoclaved aerated concrete masonry walls under vented gas explosions,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#141,Behavior of polypropylene fiber reinforced foam concrete beams laterally reinforced with/without glass fiber grid,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#142,"Application of industrially produced LC3 to Pavements, AAC Blocks and Other Products",True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#143,An experimental study on the flexural behavior of RC composite panels with both AAC and foam cores,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#144,Characterising thermal behaviour of buildings and its effect on urban heat island in tropical areas,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+#145,Seismic and energy retrofit of apartment buildings through autoclaved aerated concrete (AAC) blocks infill walls,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#146,Numerical modelling of UHPC and TRC sandwich elements for building envelopes,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#147,Experimental Investigation of Autoclaved Aerated Concrete Masonry,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#148,Flexural impact response of textile-reinforced aerated concrete sandwich panels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#149,Effective stiffness of reinforced concrete section with lightweight blocks infill,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#150,Strengthening of existing RC buildings by using autoclaved aerated concrete infill wall,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#151,"Mechanical and microstructural features of autoclaved aerated concrete reinforced with autoclaved polypropylene, carbon, basalt and glass fiber",True,True,PDF matched,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#152,"2013 International Conference on Civil, Architecture and Building Materials, 3rd CEABM 2013",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#153,Cyclic testing of a single bay reinforced concrete frames with various types of masonry infill,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#154,Evaluation of diaphragm conditions in AAC floor structures with RC beams,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#155,Use of industrial waste in the production of foam concrete based on slag portland cement,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#156,Lateral load behavior of an open-ground-story RC building with AAC infills in upper stories,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#157,Detection of reinforced metal in light weight concrete structures using an RFID sensor system,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#158,Brick and glass waste valorisation in the manufacture of aerated autoclaved concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#159,Investigating the use of autoclaved aerated concrete as an infill in reinforced concrete sandwich panels,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#160,Seismic assessment of innovative AAC masonry solutions,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#161,The stiffness behaviour of infilled frames on the influence of different infill and interface materials under static loading,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#162,AAC-concrete light weight precast composite floor slab,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#163,Autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0
+#164,Influence of polycarboxylic-type admixture on the strength of autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#165,Investigation on quality assurance & quality control in high rise buildings,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#166,Seismic behavior of autoclaved aerated concrete low rise buildings with reinforced wall panels,True,True,PDF matched,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,1,1,1,0,0,1
+#167,A macro-element model for masonry-infilled structural frames,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#168,Effects of Technology of Placing Different Types of Reinforcement in Bed Joints on Compressive and Shear Strength of AAC Masonry Walls,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#169,Research on the influence of bed joint reinforcement on strength and deformability of masonry shear walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#170,Low-velocity flexural impact response of fiber-reinforced aerated concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#171,Polyurea coating for foamed concrete panel: An efficient way to resist explosion,True,True,PDF matched,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0
+#172,Reiforcing autoclaved aerated concret masonry using polymeric fabric,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#173,Light Weight Composite for Structural Wall Panels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#174,Tests for the characterization of fiber reinforced autoclaved aerated concrete,True,False,no PDF matched; abstract available,0,1,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#175,Research into structure formation and properties of the fiber-reinforced aerated concrete obtained by the non-autoclaved hardening,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#176,Low-Density Cellular Concrete in MSE Structures with Steel Strip Reinforcements-Design and Construction Considerations and Case Histories,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#177,Shaking table test of U-shaped walls made of fiber-reinforced foamed concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#178,Heat-insulating foam concrete based on microsilica reinforced with fiber,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#179,Effect bonding strength steel reinforcement with epoxy coating on the character destruction of autoclaved aerated concrete beams in bending,True,True,PDF matched,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0,0,1
+#180,Experimental investigation of effect of section configuration on seismic performance of an innovative integrated concrete masonry wall system,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#181,Behaviour of infilled reinforced-concrete frames with various interface conditions,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#183,Shaking table study and modelling of seismic behaviour of confined AAC masonry buildings,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#184,Experimental investigation on high volume fly ash based autoclaved aerated concrete reinforced with synthetic fibers,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#185,Effect of ceramic waste powder as partial fine aggregate replacement on properties of fiber-reinforced aerated concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#186,AIP Conference Proceedings,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#187,Experimental Investigation and Numerical Analyses of Autoclaved Aerated Concrete Under Low-Velocity Drop Weight Impact,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#188,Flexural characteristics of lightweight ferrocement beams with various types of core materials and mesh reinforcement,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+#189,Numerical simulations for autoclaved aerated concrete (AAC) masonry modules reinforced with columns of disperse reinforced concrete,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#190,An experimental study of multi-grid composite walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#191,Fibre-reinforced foam concrete with hollow glass microspheres,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#192,Improving the manufacturability of the reinforced concrete structures production by using lightweight filling materials,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#193,Physical and mechanical characterization of Fiber-Reinforced Aerated Concrete (FRAC),True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#194,"3rd International Conference on Civil Engineering and Transportation, ICCET 2013",True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#195,The effect of the strengthening of aac masonry walls using frcm system,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#196,The use of bamboo and autoclaved aerated concrete block to reduce the weight of precast concrete beam,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#197,Characterization of an autoclaved aerated concrete building with respect to a similar unreinforced masonry structure,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+#198,Mechanical behavior of sustainable hybrid-synthetic fiber reinforced cellular light weight concrete for structural applications of masonry,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#199,Response of CFRP/AAC sandwich structures under low-velocity impact,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#200,Experimental assessment of the in-plane lateral capacity of autoclaved aerated concrete (AAC) masonry walls with flat-truss bed-joint reinforcement,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#201,Structural testing for validating reinforced AAC design provisions in the U.S.,True,False,no PDF matched; abstract available,0,0,1,1,0,0,0,0,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#202,Impact response of autoclave aerated concrete/FRP sandwich structures,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#203,Details of reinforcement of autoclaved aerated concrete lintels for shear and anchorage,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#204,GLUEING OF REINFORCED AUTOCLAVED AERATED CONCRETE SLABS TO FORM ROOM SIZE WALL UNITS.,True,True,PDF matched,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,1,1,0,0,1
+#205,Unreinforced solid dense concrete block walls constructed using thin joint technology,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+#206,Testing applied to the evaluation of damage to FRC and other material systems caused by large missile impact to building envelopes during storm events,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#207,STRUCTURAL ELEMENTS AND MASONRY OF AUTOCLAVED AERATED CONCRETE.,False,False,no PDF matched; no abstract available,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#208,Autoclaved Aerated Concrete-Properties and Structural Design,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#209,In-service behavior of reinforced autoclaved aerated concrete planks,True,False,no PDF matched; abstract available,0,1,0,0,1,0,0,1,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#210,Sustainable building - Case study for the combination of autoclaved aerated concrete and reinforced concrete: New trade fair facility at Friedrichshafen,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#211,Low temperature fracture behaviour and AE characteristics of autoclaved aerated concrete (AAC).,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0
+#212,Development of ASTM standards for AAC,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,1,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#213,"Large-scale precast floor and roof elements made of AAC for residential construction - Development, design and production",True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#214,Effect of equilibrium moisture contents on insulating performance of autoclaved aerated concrete blocks,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#215,Structural characterization of hybrid Fiber Reinforced Polymer (FRP) - Autoclave Aerated Concrete (AAC) panels,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+#217,Autoclaved Aerated Concrete Structural Units in Building Construction.,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,1,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#218,Bond strength of fiber reinforced polymer (FRP) bars in autoclaved aerated concrete (AAC),True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#219,Indoor climate control effect of AAC panel heat capacity: Experimental rooms and simulations with three structural materials,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#220,Shear strength of reinforced aerated concrete slabs,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0
+#221,Experimental hysteretic behavior of in-plane loaded reinforced grouted multi-ribbed aerated concrete blocks masonry walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#222,Modeling and implementation of VARTM for civil engineering applications,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#223,INVESTIGATION OF LONG TIME DEFLECTION ON REINFORCED AERATED CONCRETE SLABS.,False,False,no PDF matched; no abstract available,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#224,Vancouver's floating concrete heliport,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#225,Development of a semi-fabricated composite system for floor slab construction,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#226,Lateral out-of-plane strengthening of masonry walls with composite materials,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#227,Introduction to architectural aspects and developments in research on structural performance of autoclaved aerated concrete (AAC) products,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#228,The study of FRP sheet effectiveness on structural behavioral of AAC blocks,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#229,Standards for autoclaved aerated concrete promote sustainability,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#230,Influence of fibrous additives on properties of aerated autoclaved concrete forming mixtures and strength characteristics of products,True,True,PDF matched,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+#231,Numerical investigation of AAC wall panels based on the damage plasticity constitutive law,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+#232,Design examples for AAC masonry structures using US provisions,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#233,Developments in the Formulation and Reinforcement of Concrete,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#234,Low velocity impact response of autoclaved aerated concrete/CFRP sandwich plates,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#235,Loadbearing floor plates of autoclaved aerated concrete components,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#236,Nonlinear modeling of autoclaved aerated concrete masonry wall strengthened using ferrocement sandwich structure,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#237,Investigation of electromagnetic wave absorber based on carbon fiber reinforced aerated concrete using time-domain method,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#238,Dimensioning vertical joints between flat arranged autoclaved aerated concrete wall panels,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#239,Structural characterization of hybrid Fiber reinforced Polymer (FRP)-Autoclave Aerated Concrete (AAC) panels,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#240,Heat gain through Trombe wall using solar energy in a cold region of turkey,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#241,STP 1496 - Masonry,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#242,A method of calculating the shear resistance of reinforced slabs and beams of autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+#243,Shear behavior of lightweight sandwich reinforced concrete slabs,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#244,Precast components of reinforced AAC New standard DIN 4223,True,False,no PDF matched; abstract available,0,0,1,1,0,0,0,0,1,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#245,An experimental study of autoclaved aerated concrete lintels strengthened with externally bonded glass FRP,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0
+#246,Examination of the relation between tensile/flexural strength and compressive strength of autoclaved aerated concrete according to prEN 12602,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#247,An innovative floor system made of autoclaved aerated concrete (AAC) blocks the AAC composite floor slab,True,False,no PDF matched; abstract available,0,0,0,1,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#248,Shear strength of reinforced aerated concrete beams with shear reinforcement,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0
+#249,Behavior and strength of lightweight sandwich reinforced concrete beams,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#250,Performance of masonry building including AAC products during the 17 August 1999 Marmara Earthquake,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#251,Low temperature fracture behaviour and AE characteristics of autoclaved aerated concrete(AAC),True,True,PDF matched,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1,1,1,0,1
+#252,Fiber reinforced composite refractory insulation system,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#253,Development of seismic design provisions for Autoclaved Aerated Concrete: An overall strategy for the United States of America,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#254,Rapid prototyping of full scale house structures,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#255,Structural behavior of fiber-reinforced polymer-autoclaved aerated concrete panels,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#256,Anchorage capacity of reinforcing bars in autoclaved aerated concrete lintels,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#257,Development of a procedure for determining the freeze-thaw resistance of Autoclaved Aerated Concrete,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#258,"SHRINKAGE AND CREEP - DEFORMATION PARAMETERS OF AERATED, AUTOCLAVED CONCRETE.",False,False,no PDF matched; no abstract available,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#259,Impact response of Autoclave Aerated Concrete/FRP sandwich structures,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#260,Computed tomography study of fibre reinforced autoclaved aerated concrete,True,True,PDF matched,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1
+#261,STRUCTURAL ELEMENTS AND MASONRY OF AUTOCLAVED AERATED CONCRETE.,False,False,no PDF matched; no abstract available,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#262,Cracking due to shear in masonry mortar joints and around the interface between masonry walls and reinforced concrete beams,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+#263,Experimental and analytical study of carbon fiber-reinforced polymer (FRP)/autoclaved aerated concrete (AAC) sandwich panels,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+#264,Experimental study on the behavior of R/C frames in-filled with lightweight materials subjected to in-plane lateral loads,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#265,Properties of fiber-reinforced lightweight concrete,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#266,Appreciation of risks in specifying and designing concrete structures,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#267,Shear Resistance of Reinforced Slabs and Beams of Autoclaved Aerated Concrete. Test Results.,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#268,Seismic testing of autoclaved aerated concrete shearwalls: A comprehensive review,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#269,Glueing of Reinforced Autoclaved Aerated Concrete Slabs to Form Room Size Wall Units.,True,True,PDF matched,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,1,1,0,0,1
+#270,A new approach to the analysis of cellular bridge decks,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#271,Finite element analysis of vertical stress's effect on seismic performance of autoclaved aerated concrete block masonry walls,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#272,Shear reinforced beams in autoclaved aerated concrete,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#273,"Design and seismic testing of two-story, full-scale autoclaved aerated concrete assemblage specimen",True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#275,Structural behavior of fiber-reinforced polyrner-autoclaved aerated concrete panels,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#276,"Evaluation of ASTM methods to determine splitting tensile strength in concrete, masonry, and autoclaved aerated concrete",True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#277,In situ seismic testing of a reinforced autoclaved aerated concrete building,True,True,PDF matched,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,1,1,1,0,0,1
+#290,Experimental Investigation on Flexural Performance of Autoclaved Aerated Concrete Slab,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,1,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#291,Preliminary results on the use of GFRP as an external reinforcement for autoclaved aerated concrete,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#292,Performance-based model to predict thermal conductivity of non-autoclaved aerated concrete through linearization approach,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#304,Research on Bending Performance and Engineering Application of Autoclaved Aerated Concrete Roof Panel,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#309,Autoclaved Cellular Concrete (ACC) Masonry with Vertical Hollows Confined with Disperse Reinforced Concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#310,Research on Self-thermal Insulation Wall Construction Technology of Autoclaved Aerated Concrete Block,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#312,"A discussion of ""Influence of fibrous additives on properties of aerated autoclaved concrete forming mixtures and strength characteristics of products"" by A. Laukaitis, J. Keriene et al. [Construction and Building Materials 23 (9) (2009) 3034-3042]",True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#313,Experimental investigations on the behaviour of autoclaved aerated concrete under fatigue and sustained loads,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#315,Bond Strength of Fiber Reinforced Polymer (FRP) Bars in Autoclaved Aerated Concrete (AAC),True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#317,Out-of-plane flexural behavior of autoclaved aerated concrete block masonry walls strengthened with high-ductility concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#334,Preparation and characterization of waterproof autoclaved aerated concrete using molybdenum tailings as the raw materials,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#338,Influence of mechanically treated carbon fibre additives on structure formation and properties of autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#339,Experimental Analysis on FRP Strengthened Autoclaved Aerated Concrete Panels,True,False,no PDF matched; abstract available,0,0,0,0,1,0,0,0,1,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1
+#342,Aerated concrete with mineral dispersed reinforcing additives,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#345,Evaluation of seismic performance and design of AAC building systems (autoclaved aerated concrete) with different reinforcement methods,True,False,no PDF matched; abstract available,0,0,0,1,1,0,0,0,0,1,1,1,0,1,NA,NA,NA,NA,NA,NA,NA,0
+#349,Research on the Behavior of Stiffening Walls in Single-Storey Buildings Made of Autoclaved Aerated Concrete (AAC) Masonry Units,True,True,PDF matched,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#359,RESEARCHES FOR THE DESIGN OF REINFORCED AERATED CONCRETE BEAMS,False,False,no PDF matched; no abstract available,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#363,In-Plane Lateral Performance of AAC Block Walls Reinforced with CFPR Sheets,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#366,Experimental Response of Reinforced Concrete Frames With AAC Masonry Infill Walls to In-plane Cyclic Loading,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#367,Enhancement of interfacial corrosion resistance between aluminum powder-modified zinc silicate-potassium silicate coating and steel bars for sand-based autoclaved aerated concrete,True,True,PDF matched,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#370,Structure formation of aerated concrete containing waste coal combustion products generated in the thermal vortex power units,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#374,Graphite Tailings' Effects on Mechanical and Physical Properties of Eco-Efficient Steel Fiber-Reinforced Concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#376,Application of reinforced three-phase-foams in UHPC foam concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#378,Limitation of cracking in AAC masonry under the window zone,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#387,Heavy and light masonry walls impact on medium height reinforced concrete frames buildings,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#393,Novel Strategy for Strengthening Intervention of Masonry Walls Using Textile-Reinforced Concrete,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+#394,Fibre Reinforced Lightweight Composite Reinforced with Geogrid for Wall Panels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#396,Seismic resistant AAC infill masonry: state-of-the-art and future developments,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#398,Cracking around the interface joint between masonry panels and their supporting reinforced concrete beams in buildings,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#404,Insulation Foam Concrete Nanomodified with Microsilica and Reinforced with Polypropylene Fiber for the Improvement of Characteristics,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#407,Bond behaviour of a textile-reinforced mortar for AAC masonry,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#410,INITIAL STEEL STRESSES IN REINFORCED AAC UNITS,False,False,no PDF matched; no abstract available,0,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#413,SURVEY ON THE EUROPEAN STANDARDIZATION WORK OF CEN/TC 177 - INTENDED EN PREFABRICATED REINFORCED AAC COMPONENTS,False,False,no PDF matched; no abstract available,0,0,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+#414,Seismic performance of gravity-load designed concrete frames infilled with low-strength masonry,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#416,Pseudo-Dynamic Testing and Analytical Modeling of AAC Infilled RC Frames,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#419,Seismic Design Factors for Steel Moment Frames with Masonry Infills: Part 2,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#422,Seismic performances of AAC masonry: a review of experimental and numerical approaches,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#425,Experimental and numerical investigation of new flexible connection elements between infill walls-RC frames,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#427,"Application of Industrially Produced LC<SUP>3</SUP> to Pavements, AAC Blocks and Other Products",True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#430,Analysis of AAC walls subjected to vertical load,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,0,0
+#431,Field report on application of the dimensioning procedure according to E DIN 4109-2,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+#432,The effect of the strengthening of AAC masonry walls using FRCM system,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#436,Seismic Design Factors for Steel Moment Frames with Masonry Infills: Part 1,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#438,Effect of openings on the seismic response of AAC infilled frames and an innovative method to improve performance,True,False,no PDF matched; abstract available,0,0,0,1,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#439,Infill Walls Contribution on the Progressive Collapse Resistance of a Typical Mid-rise RC Framed Building,True,False,no PDF matched; abstract available,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,0
+#443,The 2013 MSJC Code and Specification: What to Expect and Why,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+#445,An integrated life cycle assessment and energy simulation framework for residential building walling systems,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#448,Finite element analyses on hysteretic behavior of steel frames infilled with AAC masonry wall with circular-arc opening<SUP>s</SUP>,True,True,PDF matched,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+#453,Out-of-Plane Experimental Study of Strengthening Slender Non-Structural Masonry Walls,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+#454,Experimental Research on Mechanical Properties of ALC Wallboard,True,True,PDF matched,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0
+#455,Testing of Chosen Masonry Arched Lintels,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#458,3D face-centered-cubic cement-based hybrid composites reinforced by tension-resistant polymeric truss network,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+#459,A Hierarchical Strengthening Path for Chemical Foaming: The Transformation toward Sustainable High-Performance Foamed Material Derived from Solid Waste,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+#460,Support Vector Machine to Predict the Pile Settlement using Novel Optimization Algorithm,True,True,PDF matched,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0

@@ -1,0 +1,9 @@
+Covidence #: #86
+Title: Experimental investigation of engineered geopolymer composite for structural strengthening against blast loads
+Authors: Liu, S.; Liu, C.; Hao, Y.; Zhang, Y.; Chen, L.; Li, Z.
+Year: 2024
+Journal: Def. Technol.
+DOI: 10.1016/j.dt.2023.05.010
+
+Abstract:
+[REDACTED: third-party abstract]

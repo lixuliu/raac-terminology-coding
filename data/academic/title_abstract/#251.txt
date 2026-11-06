@@ -1,0 +1,9 @@
+Covidence #: #251
+Title: Low temperature fracture behaviour and AE characteristics of autoclaved aerated concrete(AAC)
+Authors: Jeong, H.D.; Takahashi, H.; Teramura, S.
+Year: 1987
+Journal: Cem Concr Res
+DOI: 10.1016/0008-8846(87)90037-8
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #460
+Title: Support Vector Machine to Predict the Pile Settlement using Novel Optimization Algorithm
+Authors: Ge, QY; Li, CM; Yang, FL
+Year: 2023
+Journal: GEOTECHNICAL AND GEOLOGICAL ENGINEERING
+DOI: 10.1007/s10706-023-02487-5
+
+Abstract:
+[REDACTED: third-party abstract]

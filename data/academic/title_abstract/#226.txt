@@ -1,0 +1,9 @@
+Covidence #: #226
+Title: Lateral out-of-plane strengthening of masonry walls with composite materials
+Authors: Hamed, E.; Rabinovitch, O.
+Year: 2010
+Journal: J Compos Constr
+DOI: 10.1061/(ASCE)CC.1943-5614.0000093
+
+Abstract:
+[REDACTED: third-party abstract]

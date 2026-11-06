@@ -1,0 +1,9 @@
+Covidence #: #272
+Title: Shear reinforced beams in autoclaved aerated concrete
+Authors: Cornelius, T.
+Year: 2010
+Journal: Adv. Trends Struct. Eng. Mech. Comput. Proc. Int. Conf. Struct. Eng. Mech. Comput.
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

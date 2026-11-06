@@ -1,0 +1,9 @@
+Covidence #: #87
+Title: Study on the behavior of a high reinforced concrete building with different kinds of partitioning masonry walls
+Authors: Constantinescu, S.
+Year: 2021
+Journal: IOP Conf. Ser. Earth Environ. Sci.
+DOI: 10.1088/1755-1315/664/1/012050
+
+Abstract:
+[REDACTED: third-party abstract]

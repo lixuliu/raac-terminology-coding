@@ -1,0 +1,9 @@
+Covidence #: #234
+Title: Low velocity impact response of autoclaved aerated concrete/CFRP sandwich plates
+Authors: Serrano-Perez, J.C.; Vaidya, U.K.; Uddin, N.
+Year: 2007
+Journal: Compos. Struct.
+DOI: 10.1016/j.compstruct.2006.07.013
+
+Abstract:
+[REDACTED: third-party abstract]

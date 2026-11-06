@@ -1,0 +1,9 @@
+Covidence #: #214
+Title: Effect of equilibrium moisture contents on insulating performance of autoclaved aerated concrete blocks
+Authors: Jin, X.; Luo, X.; Meng, Q.
+Year: 2011
+Journal: Adv. Mater. Res.
+DOI: 10.4028/www.scientific.net/AMR.216.479
+
+Abstract:
+[REDACTED: third-party abstract]

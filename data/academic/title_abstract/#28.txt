@@ -1,0 +1,9 @@
+Covidence #: #28
+Title: Flexural behavior of sandwich panels combining curauá fiber-reinforced composite layers and autoclaved aerated concrete core
+Authors: de Paula Salgado, I.; de Andrade Silva, F.
+Year: 2021
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2021.122890
+
+Abstract:
+[REDACTED: third-party abstract]

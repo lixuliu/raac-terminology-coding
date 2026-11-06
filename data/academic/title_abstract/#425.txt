@@ -1,0 +1,9 @@
+Covidence #: #425
+Title: Experimental and numerical investigation of new flexible connection elements between infill walls-RC frames
+Authors: Erdem, MM; Emsen, E; Bikçe, M
+Year: 2021
+Journal: CONSTRUCTION AND BUILDING MATERIALS
+DOI: 10.1016/j.conbuildmat.2021.123605
+
+Abstract:
+[REDACTED: third-party abstract]

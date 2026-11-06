@@ -1,0 +1,9 @@
+Covidence #: #239
+Title: Structural characterization of hybrid Fiber reinforced Polymer (FRP)-Autoclave Aerated Concrete (AAC) panels
+Authors: Uddin, N.; Fouad, F.; Vaidya, U.K.; Khotpal, A.; Serrano-Perez, J.C.
+Year: 2006
+Journal: J Reinf Plast Compos
+DOI: 10.1177/0731684406065090
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #88
+Title: The use of non-destructive testing (NDT) to detect bed joint reinforcement in AAC masonry
+Authors: Drobiec, L.; Jasiński, R.; Mazur, W.
+Year: 2020
+Journal: Appl. Sci.
+DOI: 10.3390/app10134645
+
+Abstract:
+[REDACTED: third-party abstract]

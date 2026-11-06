@@ -1,0 +1,4 @@
+# Python 3.10+ is required.
+# The terminology-coding runners use only the Python standard library.
+# Optional dependency for scripts/prepare_academic_fulltext.py:
+pypdf

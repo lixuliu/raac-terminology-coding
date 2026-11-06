@@ -1,0 +1,9 @@
+Covidence #: #96
+Title: Shear performance of AAC masonry triplets strengthened by reinforcing steel wire mesh in the bed and bed-head joint
+Authors: Lyngkhoi, R.B.; Warjri, T.; Marthong, C.
+Year: 2023
+Journal: Earthqu. Struct.
+DOI: 10.12989/eas.2023.25.3.149
+
+Abstract:
+[REDACTED: third-party abstract]

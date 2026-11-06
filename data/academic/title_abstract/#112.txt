@@ -1,0 +1,9 @@
+Covidence #: #112
+Title: Performance properties of structural fibred-foamed concrete
+Authors: Mugahed Amran, Y.H.; Alyousef, R.; Alabduljabbar, H.; Khudhair, M.H.R.; Hejazi, F.; Alaskar, A.; Alrshoudi, F.; Siddika, A.
+Year: 2020
+Journal: Result.  Eng.
+DOI: 10.1016/j.rineng.2019.100092
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #83
+Title: A micro–macro modelling methodology for the analysis of infilled frames
+Authors: Brodsky, A.
+Year: 2021
+Journal: Bull. Earthquake Engin.
+DOI: 10.1007/s10518-021-01045-9
+
+Abstract:
+[REDACTED: third-party abstract]

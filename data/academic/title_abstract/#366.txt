@@ -1,0 +1,9 @@
+Covidence #: #366
+Title: Experimental Response of Reinforced Concrete Frames With AAC Masonry Infill Walls to In-plane Cyclic Loading
+Authors: Schwarz, S; Hanaor, A; Yankelevsky, DZ
+Year: 2015
+Journal: STRUCTURES
+DOI: 10.1016/j.istruc.2015.06.005
+
+Abstract:
+[REDACTED: third-party abstract]

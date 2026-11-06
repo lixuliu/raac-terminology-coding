@@ -1,0 +1,9 @@
+Covidence #: #38
+Title: Adding a masonry floor on top of a reinforced concrete high building in a seismic area
+Authors: Constantinescu, S.
+Year: 2020
+Journal: IOP Conf. Ser. Mater. Sci. Eng.
+DOI: 10.1088/1757-899X/789/1/012013
+
+Abstract:
+[REDACTED: third-party abstract]

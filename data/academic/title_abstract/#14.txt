@@ -1,0 +1,9 @@
+Covidence #: #14
+Title: Analysis of lightweight composite sections with reinforced concrete infill with autoclaved aerated concrete (AAC)
+Authors: Okasha, M.A.T.A.; Abdel Razek, M.; El-Esnawi, H.; Alkhatib, S.
+Year: 2023
+Journal: Front. Built Environ.
+DOI: 10.3389/fbuil.2023.1149442
+
+Abstract:
+[REDACTED: third-party abstract]

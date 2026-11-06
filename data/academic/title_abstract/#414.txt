@@ -1,0 +1,9 @@
+Covidence #: #414
+Title: Seismic performance of gravity-load designed concrete frames infilled with low-strength masonry
+Authors: Siddiqui, UA; Sucuoglu, H; Yakut, A
+Year: 2015
+Journal: EARTHQUAKES AND STRUCTURES
+DOI: 10.12989/eas.2015.8.1.019
+
+Abstract:
+[REDACTED: third-party abstract]

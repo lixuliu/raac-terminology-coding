@@ -1,0 +1,9 @@
+Covidence #: #95
+Title: Experimental investigation of AAC masonry walls reinforced with steel wire mesh embedded in bed and bed-head joint under axial compressive loading
+Authors: Badonbok Lyngkhoi, R.; Warjri, T.; Marthong, C.
+Year: 2023
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2023.132035
+
+Abstract:
+[REDACTED: third-party abstract]

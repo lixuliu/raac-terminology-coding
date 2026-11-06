@@ -1,0 +1,9 @@
+Covidence #: #256
+Title: Anchorage capacity of reinforcing bars in autoclaved aerated concrete lintels
+Authors: Boutros, M.; Saverimutto, L.
+Year: 1997
+Journal: Mater Struct
+DOI: 10.1007/bf02486399
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #445
+Title: An integrated life cycle assessment and energy simulation framework for residential building walling systems
+Authors: Mahlan, S; Francis, A; Thumuganti, V; Thomas, A; Sadick, AM; Tokede, O
+Year: 2024
+Journal: BUILDING AND ENVIRONMENT
+DOI: 10.1016/j.buildenv.2024.111542
+
+Abstract:
+[REDACTED: third-party abstract]

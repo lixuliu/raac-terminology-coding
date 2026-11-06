@@ -1,0 +1,9 @@
+Covidence #: #61
+Title: Effect of rebar self-stress on behavior of autoclaved aerated simply supported R/C thin beams subject to uniform transverse dead load
+Authors: Xu, C.; Nehdi, M.L.; Wu, Z.; Li, J.
+Year: 2021
+Journal: Eng. Struct.
+DOI: 10.1016/j.engstruct.2021.112242
+
+Abstract:
+[REDACTED: third-party abstract]

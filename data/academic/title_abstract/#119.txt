@@ -1,0 +1,9 @@
+Covidence #: #119
+Title: Influence of boundary conditions on the behavior of infilled frames
+Authors: Le Dinh, Q.K.; Bui, T.C.
+Year: 2018
+Journal: Lect. Notes Civ. Eng.
+DOI: 10.1007/978-981-10-6713-6_91
+
+Abstract:
+[REDACTED: third-party abstract]

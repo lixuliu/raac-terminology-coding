@@ -1,0 +1,9 @@
+Covidence #: #116
+Title: Experimental study on in-plane shear behavior of aac block masonry walls without openings
+Authors: Takashima, K.; Nakamura, R.; Nakata, S.; Hanai, T.; Sugimoto, K.; Kusunoki, K.; Tasai, A.
+Year: 2018
+Journal: J. Struct. Constr. Eng.
+DOI: 10.3130/aijs.83.1075
+
+Abstract:
+[REDACTED: third-party abstract]

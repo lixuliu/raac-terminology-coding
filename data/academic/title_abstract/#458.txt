@@ -1,0 +1,9 @@
+Covidence #: #458
+Title: 3D face-centered-cubic cement-based hybrid composites reinforced by tension-resistant polymeric truss network
+Authors: Li, LX; Chen, JY; Tan, XW; Zhou, YZ; Zhang, Y; Zhou, WZ; Xiao, R; Li, X; Lu, Y; Su, MN; Ding, Z; Long, WJ; Song, J
+Year: 2020
+Journal: AUTOMATION IN CONSTRUCTION
+DOI: 10.1016/j.autcon.2020.103380
+
+Abstract:
+[REDACTED: third-party abstract]

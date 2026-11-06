@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+type: software
+title: "RAAC terminology coding"
+authors:
+  - family-names: Liu
+    given-names: Lixu
+repository-code: "https://github.com/lixuliu/raac-terminology-coding"
+url: "https://github.com/lixuliu/raac-terminology-coding"
+abstract: >-
+  Seven-label, non-exclusive terminology-occurrence coding for academic
+  records and UK non-academic documents concerning reinforced autoclaved
+  aerated concrete.

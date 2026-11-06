@@ -1,0 +1,9 @@
+Covidence #: #100
+Title: Low‐velocity impact experiments and modeling of trc skin‐ aerated concrete core sandwich composites
+Authors: Pleesudjai, C.; Li, A.; Dey, V.; Mobasher, B.
+Year: 2021
+Journal: Mater.
+DOI: 10.3390/ma14020390
+
+Abstract:
+[REDACTED: third-party abstract]

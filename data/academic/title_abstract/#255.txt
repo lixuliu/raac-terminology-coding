@@ -1,0 +1,9 @@
+Covidence #: #255
+Title: Structural behavior of fiber-reinforced polymer-autoclaved aerated concrete panels
+Authors: Uddin, N.; Foaud, F.H.; Vaidya, U.K.; Khotpal, A.K.; Serrano-Perez, J.C.
+Year: 2007
+Journal: ACI Struct J
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

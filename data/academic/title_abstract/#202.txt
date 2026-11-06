@@ -1,0 +1,9 @@
+Covidence #: #202
+Title: Impact response of autoclave aerated concrete/FRP sandwich structures
+Authors: Uddin, N.; Shelar, K.V.; Fouad, F.
+Year: 2006
+Journal: Proc. Struct. Congr. Expos.
+DOI: 10.1061/40889(201)214
+
+Abstract:
+[REDACTED: third-party abstract]

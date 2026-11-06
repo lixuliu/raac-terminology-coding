@@ -1,0 +1,9 @@
+Covidence #: #136
+Title: Diagonal tensile strength of AAC blocks masonry with thin joints superficially strengthened by reinforced using GFRP net plastering
+Authors: Kałuza, M.; Galman, I.; Kubica, J.; Agneloni, C.
+Year: 2015
+Journal: Key Eng Mat
+DOI: 10.4028/www.scientific.net/KEM.624.363
+
+Abstract:
+[REDACTED: third-party abstract]

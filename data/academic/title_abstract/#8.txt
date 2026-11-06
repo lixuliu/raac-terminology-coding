@@ -1,0 +1,9 @@
+Covidence #: #8
+Title: Numerical verification of interaction between masonry with precast reinforced lintel made of AAC and reinforced concrete confining elements
+Authors: Drobiec, L.; Jasiński, R.; Mazur, W.; Rybraczyk, T.
+Year: 2020
+Journal: Appl. Sci.
+DOI: 10.3390/APP10165446
+
+Abstract:
+[REDACTED: third-party abstract]

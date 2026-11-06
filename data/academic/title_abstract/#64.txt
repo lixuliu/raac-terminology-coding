@@ -1,0 +1,9 @@
+Covidence #: #64
+Title: Improving the Physical and Mechanical Characteristics of Modified Aerated Concrete by Reinforcing with Plant Fibers
+Authors: Beskopylny, A.N.; Shcherban’, E.M.; Stel’makh, S.A.; Mailyan, L.R.; Meskhi, B.; Evtushenko, A.; El’shaeva, D.; Chernil’nik, A.
+Year: 2023
+Journal: Fibers
+DOI: 10.3390/fib11040033
+
+Abstract:
+[REDACTED: third-party abstract]

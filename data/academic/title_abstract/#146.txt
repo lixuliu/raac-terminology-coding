@@ -1,0 +1,9 @@
+Covidence #: #146
+Title: Numerical modelling of UHPC and TRC sandwich elements for building envelopes
+Authors: Miccoli, L.; Fontana, P.; Johansson, G.; Zandi, K.; Portal, N.W.; Müller, U.
+Year: 2015
+Journal: IABSE Conf., Geneva: Struct. Eng.: Provid. Solutions Glob. Challenges - Rep.
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #127
+Title: FEM simulation of the experimental response of AAC masonry infills in RC frames
+Authors: Milanesi, R.R.; Morandi, P.; Magenes, G.; Binici, B.
+Year: 2015
+Journal: COMPDYN - ECCOMAS Themat. Conf. Comput. Methods Struct. Dyn. Earthq. Eng.
+DOI: 10.7712/120115.3711.981
+
+Abstract:
+[REDACTED: third-party abstract]

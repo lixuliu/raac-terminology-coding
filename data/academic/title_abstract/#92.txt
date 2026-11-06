@@ -1,0 +1,9 @@
+Covidence #: #92
+Title: The RC samples with infill walls strengthened with steel truss wires
+Authors: Kamil Akin, S.; Bahadir, F.; Süleyman Balik, F.; Turan, M.
+Year: 2022
+Journal: Structures
+DOI: 10.1016/j.istruc.2021.12.026
+
+Abstract:
+[REDACTED: third-party abstract]

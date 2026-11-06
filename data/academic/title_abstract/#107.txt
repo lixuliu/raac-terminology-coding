@@ -1,0 +1,9 @@
+Covidence #: #107
+Title: Blast responses of CFRP strengthened autoclaved aerated cellular concrete panels
+Authors: Wang, B.; Wang, P.; Chen, Y.; Zhou, J.; Kong, X.; Wu, H.; Fan, H.; Jin, F.
+Year: 2017
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2017.09.064
+
+Abstract:
+[REDACTED: third-party abstract]

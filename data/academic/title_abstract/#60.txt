@@ -1,0 +1,9 @@
+Covidence #: #60
+Title: A parametric study in reinforced concrete frames with different infill wall materials
+Authors: Onat, Ö.; Evci, P.U.
+Year: 2024
+Journal: Bull. Earthquake Engin.
+DOI: 10.1007/s10518-024-01936-7
+
+Abstract:
+[REDACTED: third-party abstract]

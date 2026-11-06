@@ -1,0 +1,9 @@
+Covidence #: #71
+Title: Seismic performance assessment of two-storey precast reinforced concrete building
+Authors: Chourasia, A.; Kajale, Y.; Singhal, S.; Parashar, J.
+Year: 2020
+Journal: Struct. Concr.
+DOI: 10.1002/suco.201900146
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #138
+Title: Effect of AAC Infill Walls on Structural System Dynamics of a Concrete Building
+Authors: Celik, O.C.
+Year: 2016
+Journal: J. Earthqu. Eng.
+DOI: 10.1080/13632469.2015.1104757
+
+Abstract:
+[REDACTED: third-party abstract]

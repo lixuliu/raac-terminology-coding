@@ -1,0 +1,9 @@
+Covidence #: #84
+Title: Field testing of blast responses and strengthening methods of reinforced autoclaved aerated concrete panels
+Authors: Liu, C.; Liu, S.; Hao, Y.; Wu, H.; Wei, J.; Huang, Y.
+Year: 2023
+Journal: Eng. Struct.
+DOI: 10.1016/j.engstruct.2023.116377
+
+Abstract:
+[REDACTED: third-party abstract]

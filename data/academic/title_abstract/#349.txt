@@ -1,0 +1,9 @@
+Covidence #: #349
+Title: Research on the Behavior of Stiffening Walls in Single-Storey Buildings Made of Autoclaved Aerated Concrete (AAC) Masonry Units
+Authors: Grzyb, K; Jasinski, R
+Year: 2022
+Journal: MATERIALS
+DOI: 10.3390/ma15207404
+
+Abstract:
+[REDACTED: third-party abstract]

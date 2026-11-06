@@ -1,0 +1,9 @@
+Covidence #: #203
+Title: Details of reinforcement of autoclaved aerated concrete lintels for shear and anchorage
+Authors: Kuenen, K.; Boutros, M.
+Year: 1998
+Journal: Mater Struct
+DOI: 10.1007/bf02481535
+
+Abstract:
+[REDACTED: third-party abstract]

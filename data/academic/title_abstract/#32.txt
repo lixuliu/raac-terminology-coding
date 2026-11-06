@@ -1,0 +1,9 @@
+Covidence #: #32
+Title: Modelling and predicting the generation of post-demolition autoclaved aerated concrete (AAC) volumes in Germany until 2050
+Authors: Steins, J.J.; Volk, R.; Schultmann, F.
+Year: 2021
+Journal: Resour. Conserv. Recycl.
+DOI: 10.1016/j.resconrec.2021.105504
+
+Abstract:
+[REDACTED: third-party abstract]

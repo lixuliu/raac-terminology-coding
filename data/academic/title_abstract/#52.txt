@@ -1,0 +1,9 @@
+Covidence #: #52
+Title: Seismic behavior of autoclaved aerated concrete masonry walls reinforced with glass-fiber geogrid
+Authors: Xu, C.; Nehdi, M.L.; Wang, K.; Marani, A.; Zhang, L.
+Year: 2023
+Journal: Structures
+DOI: 10.1016/j.istruc.2023.105367
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #221
+Title: Experimental hysteretic behavior of in-plane loaded reinforced grouted multi-ribbed aerated concrete blocks masonry walls
+Authors: Li, S.-C.; Dong, J.-X.; Li, L.-F.
+Year: 2012
+Journal: Struct Eng Mech
+DOI: 10.12989/sem.2012.41.1.095
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #430
+Title: Analysis of AAC walls subjected to vertical load
+Authors: Drobiec, L
+Year: 2019
+Journal: MAUERWERK
+DOI: 10.1002/dama.201900021
+
+Abstract:
+[REDACTED: third-party abstract]

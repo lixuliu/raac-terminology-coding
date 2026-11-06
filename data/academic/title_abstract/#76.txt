@@ -1,0 +1,9 @@
+Covidence #: #76
+Title: Shear Behavior of Reactive Powder Concrete Ferrocement Beams with Light Weight Core Material
+Authors: Makhlouf, M.H.; Alaa, M.; Khaleel, G.I.; Elsayed, K.M.; Mansour, M.H.
+Year: 2024
+Journal: Ind. J. Concr. Struct. Mater.
+DOI: 10.1186/s40069-024-00684-x
+
+Abstract:
+[REDACTED: third-party abstract]

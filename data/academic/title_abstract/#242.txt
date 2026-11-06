@@ -1,0 +1,9 @@
+Covidence #: #242
+Title: A method of calculating the shear resistance of reinforced slabs and beams of autoclaved aerated concrete
+Authors: Briesemann, D.
+Year: 1980
+Journal: International Journal of Cement Composites and Lightweight Concrete
+DOI: 10.1016/0262-5075(80)90004-4
+
+Abstract:
+[REDACTED: third-party abstract]

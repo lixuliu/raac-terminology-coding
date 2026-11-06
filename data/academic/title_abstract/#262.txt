@@ -1,0 +1,9 @@
+Covidence #: #262
+Title: Cracking due to shear in masonry mortar joints and around the interface between masonry walls and reinforced concrete beams
+Authors: Miranda Dias, J.L.
+Year: 2007
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2005.07.016
+
+Abstract:
+[REDACTED: third-party abstract]

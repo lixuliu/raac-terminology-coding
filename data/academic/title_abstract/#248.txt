@@ -1,0 +1,9 @@
+Covidence #: #248
+Title: Shear strength of reinforced aerated concrete beams with shear reinforcement
+Authors: Aroni, S.
+Year: 1990
+Journal: Materials and Structures
+DOI: 10.1007/BF02473021
+
+Abstract:
+[REDACTED: third-party abstract]

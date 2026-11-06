@@ -1,0 +1,9 @@
+Covidence #: #188
+Title: Flexural characteristics of lightweight ferrocement beams with various types of core materials and mesh reinforcement
+Authors: Shaaban, I.G.; Shaheen, Y.B.; Elsayed, E.L.; Kamal, O.A.; Adesina, P.A.
+Year: 2018
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2018.03.167
+
+Abstract:
+[REDACTED: third-party abstract]

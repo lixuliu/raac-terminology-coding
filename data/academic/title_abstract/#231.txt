@@ -1,0 +1,9 @@
+Covidence #: #231
+Title: Numerical investigation of AAC wall panels based on the damage plasticity constitutive law
+Authors: Taddei, F.; Reindl, L.; Park, J.; Butenweg, C.; Karadogan, F.
+Year: 2011
+Journal: Cem. Wapno Beton
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

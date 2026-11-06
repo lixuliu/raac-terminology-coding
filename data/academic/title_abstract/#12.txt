@@ -1,0 +1,9 @@
+Covidence #: #12
+Title: Strain-stress distribution of structural components from foam concrete for monolithic construction
+Authors: Novikov, M.V.; Chernyshov, E.M.; Prokshits, E.E.
+Year: 2021
+Journal: Key Eng Mat
+DOI: 10.4028/www.scientific.net/KEM.887.711
+
+Abstract:
+[REDACTED: third-party abstract]

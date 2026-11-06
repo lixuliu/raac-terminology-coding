@@ -1,0 +1,9 @@
+Covidence #: #2
+Title: Parametric Modeling of Flexural Response of Sandwich Composites
+Authors: Pleesudjai, C.; Mobasher, B.
+Year: 2023
+Journal: RILEM Bookseries
+DOI: 10.1007/978-3-031-15805-6_21
+
+Abstract:
+[REDACTED: third-party abstract]

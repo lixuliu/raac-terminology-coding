@@ -1,0 +1,9 @@
+Covidence #: #118
+Title: Evaluation of Exterior Wall Behavior Using Reinforced Autoclaved Aerated Concrete as Cladding
+Authors: Wilson, S.; Jennings, C.; Tanner, J.E.
+Year: 2018
+Journal: J. Struct. Eng.
+DOI: 10.1061/(ASCE)ST.1943-541X.0002221
+
+Abstract:
+[REDACTED: third-party abstract]

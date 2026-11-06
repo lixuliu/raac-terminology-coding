@@ -1,0 +1,9 @@
+Covidence #: #46
+Title: Experimental and numerical investigation of polymer-reinforced and normal autoclaved aerated concrete masonry walls under large TNT explosive loads
+Authors: Yu, Q.; Zeng, D.; Xu, X.; Li, S.; Dong, W.; Dai, L.
+Year: 2022
+Journal: Int J Impact Eng
+DOI: 10.1016/j.ijimpeng.2022.104188
+
+Abstract:
+[REDACTED: third-party abstract]

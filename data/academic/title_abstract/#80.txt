@@ -1,0 +1,9 @@
+Covidence #: #80
+Title: Performance of reinforced lightweight geopolymer composite panels subjected to windborne debris impacts
+Authors: Li, Z.; Chen, W.; Hao, H.
+Year: 2023
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2023.132264
+
+Abstract:
+[REDACTED: third-party abstract]

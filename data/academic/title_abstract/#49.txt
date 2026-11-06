@@ -1,0 +1,9 @@
+Covidence #: #49
+Title: Shear behaviour of Autoclaved Aerated Concrete (AAC) masonry walls with and without openings strengthened with welded wire mesh
+Authors: Warlarpih, W.; Marthong, C.
+Year: 2023
+Journal: Struct Eng Mech
+DOI: 10.12989/sem.2023.87.5.487
+
+Abstract:
+[REDACTED: third-party abstract]

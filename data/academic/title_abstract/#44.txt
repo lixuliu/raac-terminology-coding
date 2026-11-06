@@ -1,0 +1,9 @@
+Covidence #: #44
+Title: Flexural behavior of textile reinforced mortar-autoclaved lightweight aerated concrete composite panels
+Authors: Guo, L.; Deng, M.; Zhang, W.; Li, T.; Zhang, Y.; Cao, M.; Hu, X.
+Year: 2024
+Journal: Front. Struct. Civ. Eng.
+DOI: 10.1007/s11709-024-1073-3
+
+Abstract:
+[REDACTED: third-party abstract]

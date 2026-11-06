@@ -1,0 +1,9 @@
+Covidence #: #200
+Title: Experimental assessment of the in-plane lateral capacity of autoclaved aerated concrete (AAC) masonry walls with flat-truss bed-joint reinforcement
+Authors: Penna, A.; Mandirola, M.; Rota, M.; Magenes, G.
+Year: 2015
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2015.02.057
+
+Abstract:
+[REDACTED: third-party abstract]

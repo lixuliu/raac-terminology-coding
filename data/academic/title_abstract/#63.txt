@@ -1,0 +1,9 @@
+Covidence #: #63
+Title: Damping Characteristics of Next-Gen Masonry Infilled RC Panels: Experimental Investigations
+Authors: Bhoraniya, T.H.; Purohit, S.P.
+Year: 2023
+Journal: Lect. Notes Civ. Eng.
+DOI: 10.1007/978-981-99-1604-7_11
+
+Abstract:
+[REDACTED: third-party abstract]

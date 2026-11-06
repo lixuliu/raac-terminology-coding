@@ -1,0 +1,9 @@
+Covidence #: #189
+Title: Numerical simulations for autoclaved aerated concrete (AAC) masonry modules reinforced with columns of disperse reinforced concrete
+Authors: Iernutan, R.A.; Babota, F.
+Year: 2019
+Journal: Procedia Manuf.
+DOI: 10.1016/j.promfg.2019.02.302
+
+Abstract:
+[REDACTED: third-party abstract]

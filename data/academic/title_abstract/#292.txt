@@ -1,0 +1,9 @@
+Covidence #: #292
+Title: Performance-based model to predict thermal conductivity of non-autoclaved aerated concrete through linearization approach
+Authors: Ulykbanov, A; Sharafutdinov, E; Chung, CW; Zhang, DC; Shon, CS
+Year: 2019
+Journal: CONSTRUCTION AND BUILDING MATERIALS
+DOI: 10.1016/j.conbuildmat.2018.11.147
+
+Abstract:
+[REDACTED: third-party abstract]

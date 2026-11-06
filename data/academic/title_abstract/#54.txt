@@ -1,0 +1,9 @@
+Covidence #: #54
+Title: Mechanical properties of natural fiber reinforced foamed concrete
+Authors: Castillo-Lara, J.F.; Flores-Johnson, E.A.; Valadez-Gonzalez, A.; Herrera-Franco, P.J.; Carrillo, J.G.; Gonzalez-Chi, P.I.; Li, Q.M.
+Year: 2020
+Journal: Mater.
+DOI: 10.3390/ma13143060
+
+Abstract:
+[REDACTED: third-party abstract]

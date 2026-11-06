@@ -1,0 +1,9 @@
+Covidence #: #416
+Title: Pseudo-Dynamic Testing and Analytical Modeling of AAC Infilled RC Frames
+Authors: Sucuoglu, H; Siddiqui, UA
+Year: 2014
+Journal: JOURNAL OF EARTHQUAKE ENGINEERING
+DOI: 10.1080/13632469.2014.932723
+
+Abstract:
+[REDACTED: third-party abstract]

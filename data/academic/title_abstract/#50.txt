@@ -1,0 +1,9 @@
+Covidence #: #50
+Title: In-plane cyclic tests on strengthening of full-scale autoclaved aerated concrete blocks infilled RC frames using highly ductile concrete (HDC)
+Authors: Lyu, H.; Deng, M.; Ma, Y.; Yang, S.; Cheng, Y.
+Year: 2022
+Journal: J. Build. Eng.
+DOI: 10.1016/j.jobe.2022.104083
+
+Abstract:
+[REDACTED: third-party abstract]

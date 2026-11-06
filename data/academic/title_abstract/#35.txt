@@ -1,0 +1,9 @@
+Covidence #: #35
+Title: Structural Performance of Ferrocement Beams Incorporating Longitudinal Hole Filled with Lightweight Concrete
+Authors: Shaheen, Y.B.; Eltaly, B.A.; Yousef, S.G.; Fayed, S.
+Year: 2023
+Journal: Ind. J. Concr. Struct. Mater.
+DOI: 10.1186/s40069-023-00579-3
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #19
+Title: Experimental and analytical study on structural performance of reinforced lightweight geopolymer composites panels
+Authors: Li, Z.; Chen, W.; Hao, H.; Xu, C.; Pham, T.M.
+Year: 2023
+Journal: Structures
+DOI: 10.1016/j.istruc.2023.03.129
+
+Abstract:
+[REDACTED: third-party abstract]

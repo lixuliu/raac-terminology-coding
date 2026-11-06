@@ -1,0 +1,9 @@
+Covidence #: #16
+Title: Fibre-reinforced foamed concretes: A review
+Authors: Amran, M.; Fediuk, R.; Vatin, N.; Lee, Y.H.; Murali, G.; Ozbakkaloglu, T.; Klyuev, S.; Alabduljabber, H.
+Year: 2020
+Journal: Mater.
+DOI: 10.3390/ma13194323
+
+Abstract:
+[REDACTED: third-party abstract]

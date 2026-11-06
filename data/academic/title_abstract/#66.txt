@@ -1,0 +1,9 @@
+Covidence #: #66
+Title: Preparation and load-deformation characterization of carbon nanotube-reinforced foam concrete
+Authors: Zhang, S.; Wang, Z.; Lu, L.; Feng, D.
+Year: 2020
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2020.119294
+
+Abstract:
+[REDACTED: third-party abstract]

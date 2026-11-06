@@ -1,0 +1,9 @@
+Covidence #: #77
+Title: In-Plane Seismic Response of Autoclaved Aerated Concrete Block Masonry-Infilled Reinforced Concrete Frame Building
+Authors: Zade, N.P.; Bhosale, A.; Sarkar, P.; Davis, R.
+Year: 2022
+Journal: ACI Struct J
+DOI: 10.14359/51734329
+
+Abstract:
+[REDACTED: third-party abstract]

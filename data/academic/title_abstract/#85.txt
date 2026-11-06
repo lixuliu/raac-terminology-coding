@@ -1,0 +1,9 @@
+Covidence #: #85
+Title: Experimental Study on Shear Behavior of Reinforced Autoclaved Aerated Concrete Slab
+Authors: Zhang, T.; Dai, J.; Qin, S.
+Year: 2020
+Journal: J. Phys. Conf. Ser.
+DOI: 10.1088/1742-6596/1626/1/012159
+
+Abstract:
+[REDACTED: third-party abstract]

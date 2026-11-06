@@ -1,0 +1,9 @@
+Covidence #: #114
+Title: Behavior of autoclaved aerated concrete reinforced thin-panel floor sheathing elements
+Authors: Jennings, C.; Owen, N.A.; Tanner, J.E.
+Year: 2019
+Journal: ACI Struct J
+DOI: 10.14359/51710863
+
+Abstract:
+[REDACTED: third-party abstract]

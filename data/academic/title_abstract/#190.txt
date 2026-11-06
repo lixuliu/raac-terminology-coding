@@ -1,0 +1,9 @@
+Covidence #: #190
+Title: An experimental study of multi-grid composite walls
+Authors: Liu, P.; Guo, M.
+Year: 2012
+Journal: Adv. Struct. Eng.
+DOI: 10.1260/1369-4332.15.3.495
+
+Abstract:
+[REDACTED: third-party abstract]

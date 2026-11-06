@@ -1,0 +1,9 @@
+Covidence #: #68
+Title: Numerical Prediction Method for Vibration Characteristics of Steel-Framed Autoclaved Lightweight Aerated Concrete Floor Structures
+Authors: Mizunuma, H.; Asakura, T.; Ishiwatari, Y.; Shiraishi, T.; Satoh, F.
+Year: 2022
+Journal: Buildings
+DOI: 10.3390/buildings12111910
+
+Abstract:
+[REDACTED: third-party abstract]

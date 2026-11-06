@@ -1,0 +1,9 @@
+Covidence #: #157
+Title: Detection of reinforced metal in light weight concrete structures using an RFID sensor system
+Authors: Suwalak, R.; Phongcharoenpanich, C.; Torrungrueng, D.
+Year: 2014
+Journal: IEEE Conf. Antenna Meas. Appl., CAMA
+DOI: 10.1109/CAMA.2014.7003400
+
+Abstract:
+[REDACTED: third-party abstract]

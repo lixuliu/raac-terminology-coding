@@ -1,0 +1,9 @@
+Covidence #: #7
+Title: Mechanical and durability properties of hybrid fiber reinforced foam concrete
+Authors: Raj, B.; Sathyan, D.; Madhavan, M.K.; Raj, A.
+Year: 2020
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2020.118373
+
+Abstract:
+[REDACTED: third-party abstract]

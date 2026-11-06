@@ -1,0 +1,9 @@
+Covidence #: #367
+Title: Enhancement of interfacial corrosion resistance between aluminum powder-modified zinc silicate-potassium silicate coating and steel bars for sand-based autoclaved aerated concrete
+Authors: Chen, C; Peng, FF; Zhang, RY; Jiu, S; Chen, YX
+Year: 2024
+Journal: COLLOIDS AND SURFACES A-PHYSICOCHEMICAL AND ENGINEERING ASPECTS
+DOI: 10.1016/j.colsurfa.2024.134533
+
+Abstract:
+[REDACTED: third-party abstract]

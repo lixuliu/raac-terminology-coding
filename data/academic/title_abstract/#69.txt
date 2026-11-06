@@ -1,0 +1,9 @@
+Covidence #: #69
+Title: Lightweight foamed concrete mixture for structural use
+Authors: Allouzi, R.; Al Qatawna, A.; Al-Kasasbeh, T.
+Year: 2020
+Journal: ACI Mater J
+DOI: 10.14359/51722405
+
+Abstract:
+[REDACTED: third-party abstract]

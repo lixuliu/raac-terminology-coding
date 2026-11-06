@@ -1,0 +1,9 @@
+Covidence #: #237
+Title: Investigation of electromagnetic wave absorber based on carbon fiber reinforced aerated concrete using time-domain method
+Authors: Laukaitis, A.; Sinica, M.; Balevičius, S.; Levitas, B.
+Year: 2008
+Journal: Acta Phys Pol A
+DOI: 10.12693/APhysPolA.113.1047
+
+Abstract:
+[REDACTED: third-party abstract]

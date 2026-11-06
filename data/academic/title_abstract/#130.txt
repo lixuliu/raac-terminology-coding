@@ -1,0 +1,9 @@
+Covidence #: #130
+Title: Study of Autoclaved Aerated Concrete Masonry Walls with Horizontal Reinforcement under Compression and Shear
+Authors: Jasiński, R.; Drobiec, Ł.
+Year: 2016
+Journal: Procedia Eng.
+DOI: 10.1016/j.proeng.2016.08.758
+
+Abstract:
+[REDACTED: third-party abstract]

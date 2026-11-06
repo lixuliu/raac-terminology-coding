@@ -1,0 +1,9 @@
+Covidence #: #135
+Title: Experimental investigation on the quasi-static mechanical behavior of autoclaved aerated concrete insulated sandwich panels
+Authors: Bayat, A.; Liaghat, G.; Sabouri, H.; Ashkezari, G.D.; Pedram, E.; Taghizadeh, S.A.; Khan, M.K.; Razmkhah, O.
+Year: 2019
+Journal: J. Sandw. Struct. Mater.
+DOI: 10.1177/1099636219857633
+
+Abstract:
+[REDACTED: third-party abstract]

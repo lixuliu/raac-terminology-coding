@@ -1,0 +1,9 @@
+Covidence #: #148
+Title: Flexural impact response of textile-reinforced aerated concrete sandwich panels
+Authors: Dey, V.; Zani, G.; Colombo, M.; Di Prisco, M.; Mobasher, B.
+Year: 2015
+Journal: Mater. Des.
+DOI: 10.1016/j.matdes.2015.07.004
+
+Abstract:
+[REDACTED: third-party abstract]

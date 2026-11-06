@@ -1,0 +1,9 @@
+Covidence #: #101
+Title: The 2013 MSJC code and specification: What to expect and why
+Authors: Throop, D.B.; Bennett, R.M.; Dairymple, G.; Samblanet, P.
+Year: 2014
+Journal: ASTM Spec. Tech. Publ.
+DOI: 10.1520/STP157720130148
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #260
+Title: Computed tomography study of fibre reinforced autoclaved aerated concrete
+Authors: Weidemann, G.; Stadie, R.; Goebbels, J.; Hillemeier, B.
+Year: 2008
+Journal: Materialpruefung
+DOI: 10.3139/120.100879
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #236
+Title: Nonlinear modeling of autoclaved aerated concrete masonry wall strengthened using ferrocement sandwich structure
+Authors: Abdel-Mooty, M.; El-Kashef, M.; Fahmy, E.; Abou-Zeid, M.; Haroun, M.
+Year: 2011
+Journal: ISEC - Int. Struct. Eng. Constr. Conf.: Mod. Methods Adv. Struct. Eng. Constr.
+DOI: 10.3850/978-981-08-7920-4-S2-S57-cd
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #97
+Title: Behavior of Foamed Concrete Slabs Using Various Reinforcement Schemes
+Authors: Allouzi, R.
+Year: 2020
+Journal: ACI Struct J
+DOI: 10.14359/51724680
+
+Abstract:
+[REDACTED: third-party abstract]

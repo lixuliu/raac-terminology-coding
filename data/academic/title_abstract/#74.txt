@@ -1,0 +1,9 @@
+Covidence #: #74
+Title: Shear behaviour of AAC masonry reinforced by incorporating steel wire mesh within the masonry bed and bed-head joint
+Authors: Lyngkhoi, R.B.; Warjri, T.; Marthong, C.
+Year: 2024
+Journal: Earthqu. Struct.
+DOI: 10.12989/eas.2024.26.5.363
+
+Abstract:
+[REDACTED: third-party abstract]

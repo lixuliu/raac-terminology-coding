@@ -1,0 +1,9 @@
+Covidence #: #81
+Title: Numerical investigation on composite enclosure walls of RC frames infilled with autoclaved aerated concrete panels under cyclic loads
+Authors: Yi, Y.; Zhang, Z.; Wang, X.; Li, X.
+Year: 2024
+Journal: Eng. Fail. Anal.
+DOI: 10.1016/j.engfailanal.2024.108720
+
+Abstract:
+[REDACTED: third-party abstract]

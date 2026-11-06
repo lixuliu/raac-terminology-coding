@@ -1,0 +1,9 @@
+Covidence #: #93
+Title: Penetration Resistance of Building Materials against 7.62-mm Armor-Piercing Projectile
+Authors: Sovják, R.; Koutný, O.; Hála, P.
+Year: 2021
+Journal: J. Mater. Civ. Eng.
+DOI: 10.1061/(ASCE)MT.1943-5533.0003858
+
+Abstract:
+[REDACTED: third-party abstract]

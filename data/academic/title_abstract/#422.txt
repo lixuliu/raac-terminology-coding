@@ -1,0 +1,9 @@
+Covidence #: #422
+Title: Seismic performances of AAC masonry: a review of experimental and numerical approaches
+Authors: Miccoli, L
+Year: 2018
+Journal: MAUERWERK
+DOI: 10.1002/dama.201800023
+
+Abstract:
+[REDACTED: third-party abstract]

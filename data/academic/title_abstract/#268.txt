@@ -1,0 +1,9 @@
+Covidence #: #268
+Title: Seismic testing of autoclaved aerated concrete shearwalls: A comprehensive review
+Authors: Tanner, J.E.; Varela, J.L.; Klingner, R.E.; Brightman, M.J.; Cancino, U.
+Year: 2005
+Journal: ACI Struct J
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

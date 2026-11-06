@@ -1,0 +1,9 @@
+Covidence #: #222
+Title: Modeling and implementation of VARTM for civil engineering applications
+Authors: Serrano-Perez, J.C.; Vaidya, U.K.
+Year: 2005
+Journal: SAMPE J
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

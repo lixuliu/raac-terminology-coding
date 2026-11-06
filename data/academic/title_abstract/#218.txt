@@ -1,0 +1,9 @@
+Covidence #: #218
+Title: Bond strength of fiber reinforced polymer (FRP) bars in autoclaved aerated concrete (AAC)
+Authors: Ayudhya, B.I.N.; Ungkoon, Y.
+Year: 2011
+Journal: Adv. FRP Compos. Civ. Eng. - Proc. Int. Conf. FRP Compos. Civ. Eng., CICE
+DOI: 10.1007/978-3-642-17487-2_127
+
+Abstract:
+[REDACTED: third-party abstract]

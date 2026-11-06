@@ -1,0 +1,9 @@
+Covidence #: #193
+Title: Physical and mechanical characterization of Fiber-Reinforced Aerated Concrete (FRAC)
+Authors: Bonakdar, A.; Babbitt, F.; Mobasher, B.
+Year: 2013
+Journal: Cem Concr Compos
+DOI: 10.1016/j.cemconcomp.2013.03.006
+
+Abstract:
+[REDACTED: third-party abstract]

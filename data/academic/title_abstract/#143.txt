@@ -1,0 +1,9 @@
+Covidence #: #143
+Title: An experimental study on the flexural behavior of RC composite panels with both AAC and foam cores
+Authors: Abdel-Mooty, M.N.; El Kashif, M.S.; Fahmy, E.H.; Abou Zeid, M.N.; Haroun, M.A.
+Year: 2012
+Journal: AES-ATEMA Int. Conf. Ser. - Adv. Trends Eng. Mater. Their Appl.
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

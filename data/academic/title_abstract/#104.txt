@@ -1,0 +1,9 @@
+Covidence #: #104
+Title: Thermal performance evaluation of two thermal energy storage tank design concepts for use with a solid particle receiver-based solar power tower
+Authors: El-Leathy, A.; Jeter, S.; Al-Ansary, H.; Abdel-Khalik, S.; Roop, J.; Golob, M.; Danish, S.; Alrished, A.; Djajadiwinata, E.; Al-Suhaibani, Z.
+Year: 2014
+Journal: Energies
+DOI: 10.3390/en7128201
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #277
+Title: In situ seismic testing of a reinforced autoclaved aerated concrete building
+Authors: Binici, B; Gokmen, F; Canbay, E; Aldemir, A; Ogdu, MK; Uzgan, U; Eryurtlu, Z; Ozdemir, G
+Year: 2018
+Journal: MAUERWERK
+DOI: 10.1002/dama.201800020
+
+Abstract:
+[REDACTED: third-party abstract]

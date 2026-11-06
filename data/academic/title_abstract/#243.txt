@@ -1,0 +1,9 @@
+Covidence #: #243
+Title: Shear behavior of lightweight sandwich reinforced concrete slabs
+Authors: Vimonsatit, V.; Wahyuni, A.S.; Nikraz, H.
+Year: 2011
+Journal: ISEC - Int. Struct. Eng. Constr. Conf.: Mod. Methods Adv. Struct. Eng. Constr.
+DOI: 10.3850/978-981-08-7920-4-S2-S77-cd
+
+Abstract:
+[REDACTED: third-party abstract]

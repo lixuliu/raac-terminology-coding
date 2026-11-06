@@ -1,0 +1,9 @@
+Covidence #: #264
+Title: Experimental study on the behavior of R/C frames in-filled with lightweight materials subjected to in-plane lateral loads
+Authors: Imran, I.; Aryanto, A.
+Year: 2008
+Journal: EASEC-11 - Eleventh East Asia-Pacific. Conf. on Struct. Eng. and Const.
+DOI: 
+
+Abstract:
+[REDACTED: third-party abstract]

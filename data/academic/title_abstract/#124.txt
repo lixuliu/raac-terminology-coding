@@ -1,0 +1,9 @@
+Covidence #: #124
+Title: Shear Resistance of Reinforced Aerated Concrete Slabs: Prediction via Artificial Neural Networks
+Authors: Bakbak, D.; Kurtoğlu, A.E.
+Year: 2019
+Journal: J. Sustain. Constr. Mater. Technol.
+DOI: 10.29187/jscmt.2019.38
+
+Abstract:
+[REDACTED: third-party abstract]

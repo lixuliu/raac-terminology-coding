@@ -1,0 +1,9 @@
+Covidence #: #40
+Title: Seismic analysis of a G + 3 confined masonry building with AAC infill using SAP 2000
+Authors: Kumar, S.; Abdul Akbar, M.; Thakur, A.
+Year: 2023
+Journal: Mater. Today Proc.
+DOI: 10.1016/j.matpr.2022.10.282
+
+Abstract:
+[REDACTED: third-party abstract]

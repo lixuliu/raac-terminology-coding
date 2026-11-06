@@ -1,0 +1,9 @@
+Covidence #: #94
+Title: Behavior and design of FRP bonded autoclaved aerated concrete beams
+Authors: Tuncer, E.; Binici, B.; Canbay, E.
+Year: 2021
+Journal: Constr Build Mater
+DOI: 10.1016/j.conbuildmat.2021.122712
+
+Abstract:
+[REDACTED: third-party abstract]

@@ -1,0 +1,9 @@
+Covidence #: #121
+Title: Flexural behaviour and theoretical prediction of lightweight ferrocement composite beams
+Authors: Shaaban, I.G.; Shaheen, Y.B.I.; Elsayed, E.L.; Kamal, O.A.; Adesina, P.A.
+Year: 2018
+Journal: Case Stud. Constr. Mater.
+DOI: 10.1016/j.cscm.2018.e00204
+
+Abstract:
+[REDACTED: third-party abstract]

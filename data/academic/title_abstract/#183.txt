@@ -1,0 +1,9 @@
+Covidence #: #183
+Title: Shaking table study and modelling of seismic behaviour of confined AAC masonry buildings
+Authors: Tomaževič, M.; Gams, M.
+Year: 2012
+Journal: Bull. Earthquake Engin.
+DOI: 10.1007/s10518-011-9331-x
+
+Abstract:
+[REDACTED: third-party abstract]

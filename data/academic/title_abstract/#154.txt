@@ -1,0 +1,9 @@
+Covidence #: #154
+Title: Evaluation of diaphragm conditions in AAC floor structures with RC beams
+Authors: Halici, O.F.; Ugurlu, K.; Demir, C.; Comert, M.; Ilki, A.
+Year: 2018
+Journal: Bull. Earthquake Engin.
+DOI: 10.1007/s10518-018-0434-5
+
+Abstract:
+[REDACTED: third-party abstract]

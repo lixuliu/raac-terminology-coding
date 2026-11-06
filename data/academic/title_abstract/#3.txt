@@ -1,0 +1,9 @@
+Covidence #: #3
+Title: Strengthening of autoclaved aerated concrete (AAC) masonry wallettes with fabric reinforced cementitious matrix for in-plane shear and out-of-plane loads
+Authors: Gupta, A.; Meena, G.K.; Singhal, V.
+Year: 2023
+Journal: Structures
+DOI: 10.1016/j.istruc.2023.03.099
+
+Abstract:
+[REDACTED: third-party abstract]

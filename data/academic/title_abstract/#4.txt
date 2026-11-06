@@ -1,0 +1,9 @@
+Covidence #: #4
+Title: Structure behavior of a fabricated shotcrete sandwich wall system under axial compression
+Authors: Zhang, S.; Xie, Q.
+Year: 2021
+Journal: IOP Conf. Ser. Earth Environ. Sci.
+DOI: 10.1088/1755-1315/783/1/012059
+
+Abstract:
+[REDACTED: third-party abstract]

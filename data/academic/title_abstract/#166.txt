@@ -1,0 +1,9 @@
+Covidence #: #166
+Title: Seismic behavior of autoclaved aerated concrete low rise buildings with reinforced wall panels
+Authors: Gokmen, F.; Binici, B.; Aldemir, A.; Taghipour, A.; Canbay, E.
+Year: 2019
+Journal: Bull. Earthquake Engin.
+DOI: 10.1007/s10518-019-00630-3
+
+Abstract:
+[REDACTED: third-party abstract]

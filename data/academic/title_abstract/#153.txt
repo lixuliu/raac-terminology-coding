@@ -1,0 +1,9 @@
+Covidence #: #153
+Title: Cyclic testing of a single bay reinforced concrete frames with various types of masonry infill
+Authors: Zovkic, J.; Sigmund, V.; Guljas, I.
+Year: 2013
+Journal: Earthqua. Eng. Struct. Dyn.
+DOI: 10.1002/eqe.2263
+
+Abstract:
+[REDACTED: third-party abstract]
